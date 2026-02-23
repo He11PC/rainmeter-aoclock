@@ -58,7 +58,7 @@ You can change the background transparency by editing the **BgAlpha=** line in *
 > `Format=%a %d %b` (see [Format codes](https://docs.rainmeter.net/manual/measures/time/#FormatCodes))
 > `Substitute="Jan":"Jan","Feb":"Fev","Mar":"Mar","Apr":"Avr","May":"Mai","Jun":"Jun","Jul":"Jul","Aug":"Aou","Sep":"Sep","Oct":"Oct","Nov":"Nov","Dec":"Dec","Mon":"Lun","Tue":"Mar","Wed":"Mer","Thu":"Jeu","Fri":"Ven","Sat":"Sam","Sun":"Dim"`
 
-- **CPU usage:** open DetailsCPU_RAM.inc inside the **@Resources** directory and edit **[MeterInfoCPU]**
+- **CPU usage:** open **DetailsCPU_RAM.inc** inside the **@Resources** directory and edit **[MeterInfoCPU]**
 
 > `Text=Utilisation` in French becomes `Text=Usage` in English
 
