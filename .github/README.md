@@ -68,4 +68,4 @@ You can change the background transparency by editing the **BgAlpha=** line in *
 
 **Widget:** Licensed under GNU GPLv3 by HellPC
 
-**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by Brian Ferguson
+**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by [Brian Ferguson](https://github.com/brianferguson/SysColor.dll/)
