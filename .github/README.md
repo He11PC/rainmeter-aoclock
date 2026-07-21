@@ -14,7 +14,7 @@ It displays the following information:
 
 ---
 
-## Usage:
+## Usage
 
 Hover over the CPU area to display more information:
 
@@ -34,7 +34,7 @@ Click on the widget to open the Windows tasks manager.
 
 ---
 
-## Installation:
+## Installation
 
 You obviously need to install **Rainmeter** first.
 
@@ -47,7 +47,7 @@ You can change the background transparency by editing the **BgAlpha=** line in *
 
 ---
 
-## Translation:
+## Translation
 
 - **Network speed unit:** open **Histogram.ini** or **Round.ini**, depending on which one you're using, and edit **[MeterLANOutText]** and **[MeterLANInText]**
 
@@ -64,7 +64,7 @@ You can change the background transparency by editing the **BgAlpha=** line in *
 
 ---
 
-## Credits and Third-Party Licenses:
+## Credits and Third-Party Licenses
 
 **Widget:** Licensed under GNU GPLv3 by HellPC
 
