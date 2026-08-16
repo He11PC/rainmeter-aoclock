@@ -36,9 +36,9 @@ Click on the widget to open the Windows tasks manager.
 
 ## Installation
 
-You obviously need to install **Rainmeter** first.
+You obviously need to install [**Rainmeter**](https://www.rainmeter.net/) first.
 
-Download and install the **AOClock.rmskin** by double-clicking it  
+Download and install the **AOClock.rmskin** from the [release](https://github.com/He11PC/rainmeter-aoclock/releases) section  
 
 > If you prefer to install it manually, download the widget files to **Documents/Rainmeter/Skins/AOClock**.  
 > And install the **SysColor.dll** plugin made by *Brian Ferguson* from his GitHub repository: [brianferguson/SysColor.dll](https://github.com/brianferguson/SysColor.dll/)
