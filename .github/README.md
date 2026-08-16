@@ -12,7 +12,7 @@ It displays the following information:
 - CPU usage
 - RAM usage
 
----
+<br>
 
 ## Usage
 
@@ -32,7 +32,7 @@ Hover over the RAM area to display more information:
 
 Click on the widget to open the Windows tasks manager.
 
----
+<br>
 
 ## Installation
 
@@ -45,7 +45,7 @@ Download and install the **AOClock.rmskin** by double-clicking it
 
 You can change the background transparency by editing the **BgAlpha=** line in **@Resources/Settings_Common.inc** (0 = 100% transparent, 255 = 100% opaque)
 
----
+<br>
 
 ## Translation
 
@@ -62,7 +62,7 @@ You can change the background transparency by editing the **BgAlpha=** line in *
 
 > `Text=Utilisation` in French becomes `Text=Usage` in English
 
----
+<br>
 
 ## Credits and Third-Party Licenses
 
